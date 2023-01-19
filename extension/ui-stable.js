@@ -48,7 +48,7 @@ const presets=[
         name:"AudioStream",
         id:12,
         isRemote:true,
-        url:"https://lstv.ml/cdn/dock/uploads/XzShH4Y6TbAudioStream.js",
+        url:"https://raw.githubusercontent.com/ghbbeep/AudioStream-Archive/main/AudioStream.js",
         color:"purple"
     },
     {
